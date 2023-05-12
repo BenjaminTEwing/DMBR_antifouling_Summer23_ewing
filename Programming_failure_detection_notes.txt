@@ -1,0 +1,11 @@
+Programming_failure_detection.txt
+Failure modes to attempt to detect and react to/provide failsafes to:
+!	- Low Importance
+!!	- Medium Importance
+!!! - HIGH Importance
+ 
+- Motor overcurrent!!
+- Wiper Stall!!!
+- Pressure Read Failure!
+- Pump control disconect?!
+- Flow Sense failure

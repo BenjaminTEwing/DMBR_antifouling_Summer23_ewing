@@ -1,0 +1,80 @@
+0.     
+Provide Rationale for the research question via
+lit review:
+
+Some review was conducted, while not exhaustive, and is currently collected into the zotero group.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1.    
+Research question: Clearly state the research
+question or problem that the experiment is designed to investigate.
+
+Is electrolysis effective at providing anti-fouling effects to the mesh tube rDMBR? Additionally what is the most effective electrode arrangement for providing anti-fouling. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+2.    
+Hypothesis: Formulate a specific, testable
+hypothesis that addresses the research question.
+
+Electrolysis can be used on the rDMBR in order to reduce the pressure required to maintain a constant flux.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+3.     
+Methods: Describe the materials and equipment
+that will be used in the experiment, as well as the procedures that will be followed.
+This should be detailed enough for someone else to replicate the experiment.
+
+Equipment used for the first full iteration of the experiment will use a computer (Arduino), peristaltic pump, DMBR mini-module, Pressure Sensor, and electric balance.  The equipment is plumbed such that the mini-module is the intake for the pump and the pressure sensor is reading in between the mini-module and pump, providing a reading of the transmembrane pressure.  The outlet of the pump is sent to a separate vessel that is places on the scale to measure the mass of fluid and suspended solids that have made their way through the mini-module.  The computer is used to log the pressure and mass data over time as well as activate the electrolysis and control the potential applied to the electrodes.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+4.     
+Data collection and analysis: Explain how data
+will be collected and analyzed during the experiment. Also, describe the
+statistical techniques that will be used to analyze the data.
+
+Weight will be measured over time and will be used to calculate the associated flow rate of both water and the total suspended solids combined.  
+
+Voltage and current will be monitored using a DMM to measure the power being used.  
+
+Statistics TBD
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+5.     
+Timeline: Create a detailed timeline that
+outlines the steps of the experiment, including when each step will be carried
+out and how long it will take.
+
+Start pump, wait for Almost all air to be cleared from vacuum side plumbing
+
+Start computer and begin logging pressure & scale data.
+
+60 minutes from start, computer activates electrolysis anti-fouling of mesh.  Continue logging pressure & scale data.
+
+75 minutes from start, operator measures and records voltage and current. 
+
+90 minutes from start, operator measures and records voltage and current.
+
+105 minutes from start, operator measures and records voltage and current.
+
+120 minutes from start, computer turns off electrolysis, operator verifies. 
+
+180 minutes from start
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+6.   
+Safety considerations: Address any potential
+safety hazards associated with the experiment and explain how they will be
+mitigated.
+
+Possible generation of dangerous gases and chemicals such as chlorine gas and hexavalent chromium.  Electrical shock is of minimal risk due to the extremely low voltages being used.  Black waste water in use so standard safety protocol of safety glasses, gloves, and lab coat should be used as well as hand washing.
+
+To minimize the generation of hazardous materials voltages will be kept sufficiently low as to prevent the case where their generation can occur.  Cr(VI) from stainless steel can occur at 3V and chlorine gas at approximately 2.25V when sodium chloride is in solution.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+7.     
+Ethical considerations: Describe any ethical
+issues that may arise during the experiment and explain how they will be
+addressed.
+
